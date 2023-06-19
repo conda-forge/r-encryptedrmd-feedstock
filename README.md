@@ -1,11 +1,11 @@
-About r-encryptedrmd
-====================
+About r-encryptedrmd-feedstock
+==============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-encryptedrmd-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/dirkschumacher/encryptedRmd
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-encryptedrmd-feedstock/blob/main/LICENSE.txt)
 
 Summary: Create encrypted html files that are fully self contained and do not require any additional software. Using the package you can encrypt arbitrary html files and also directly create encrypted 'rmarkdown' html reports.
 
